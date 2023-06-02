@@ -34,7 +34,7 @@ global T_flex T_ext t_flex t_ext extension
 global ds pre_step time_max time_init
 
 %drive modulation
-    ds = 1.4;           %range 0.7 - 3.5(normal walking, 1.4-basic rythm), 0(SCI) 
+    ds = 3.5;           %range 0.7 - 3.5(normal walking, 1.4-basic rythm), 0(SCI) 
 %learning
     k_IaF = 1.0;
     k_II = 1.0;
